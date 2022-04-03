@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "logrocket": "^2.2.1"
   },
   "devDependencies": {
     "jest": "^27.5.1",
@@ -9,5 +10,5 @@
   "scripts": {
     "start": "node src",
     "test": "jest src/app.test.js"
-}
+  }
 }
